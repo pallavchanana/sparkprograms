@@ -1,11 +1,12 @@
 # sparkprograms
 Spark Programs
+//library Functions
 package sparker
 import org.apache.spark._
 import org.apache.spark.SparkContext
 import org.apache.log4j._
 
-
+//scala object
 object f1spark {
       def main(args:Array[String]){
        //log level to print errors
